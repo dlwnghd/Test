@@ -1,4 +1,4 @@
-package com.lec.spring.GitPractice;
+package com.lec.spring.controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
